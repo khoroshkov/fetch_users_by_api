@@ -1,0 +1,32 @@
+
+
+ul {
+  list-style: none;
+}
+
+.card {
+ margin-bottom: 2rem;
+}
+
+.btn-cont {
+  width: 100%;
+  max-width: 30rem;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: auto;
+}
+
+.btn {
+  width: 100%;
+  max-width: 8rem;
+}
+
+.pagination {
+  justify-content: space-between;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.selected {
+  color: red;
+}
